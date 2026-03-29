@@ -1,0 +1,10 @@
+project: tabnet-himalaya
+kernel_slug: premsuggu11/tabnet-himalaya
+code_file: tabnet.ipynb
+accelerator: gpu
+internet: true
+privacy: private
+datasets: []
+competitions: []
+outputs:
+  download_to: .kaggle-outputs/
