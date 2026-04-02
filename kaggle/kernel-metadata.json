@@ -1,7 +1,7 @@
 {
-  "id": "premsuggu11/tabnet-himalaya",
-  "title": "TabNet-himalaya",
-  "code_file": "tabnet.ipynb",
+  "id": "premsuggu11/tabnet-himalaya2",
+  "title": "TabNet-himalaya2",
+  "code_file": "tabnet-himalaya.ipynb",
   "language": "python",
   "kernel_type": "notebook",
   "is_private": true,
@@ -10,5 +10,5 @@
   "dataset_sources": ["premsuggu11/nga-west2-seismic-data"],
   "competition_sources": [],
   "kernel_sources": [],
-  "enable_tpu": false
+  "enable_tpu": true
 }
