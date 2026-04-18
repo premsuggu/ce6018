@@ -1,1 +1,8 @@
 *result*
+.gitignore
+others/
+*logs*
+*kaggle*
+resources/
+*reference*
+*test*
